@@ -69,9 +69,16 @@ https://github.com/charles-robert-amita/wired-brain-recipes.git
 | git push              | --force	Can overwrite remote history               |
 
 ## MOST IMPORTANT WORKFLOW
+
+
 1\. Make/change files
+
 2\. git status
+
 3\. git add .
+
 4\. git status
+
 5\. git commit -m "message"
+
 6\. git log --oneline
