@@ -1,10 +1,10 @@
 ## wired-brain-recipes
 Git and GitHub training repository.
 
-## repository
+## Repository
 https://github.com/charles-robert-amita/wired-brain-recipes.git
 
-##Git Bash / Terminal Commands
+## Git Bash / Terminal Commands
 | Command               | What it does                      | Easy mental shortcut   |
 | --------------------- | --------------------------------- | ---------------------- |
 | `pwd`                 | Shows your current directory      | Where am I?        |
@@ -22,7 +22,7 @@ https://github.com/charles-robert-amita/wired-brain-recipes.git
 | `clear`               | Clears the terminal screen        | Clean screen       |
 | `cat file.txt`        | Displays file contents            | Show me this file  |
 
-##Git Commands — THE IMPORTANT ONES
+## Git Commands — THE IMPORTANT ONES
 | Command                   | What it does                                         | Easy mental shortcut            |
 | ------------------------- | ---------------------------------------------------- | ------------------------------- |
 | `git --version`           | Shows installed Git version                          | Is Git installed?           |
@@ -39,7 +39,7 @@ https://github.com/charles-robert-amita/wired-brain-recipes.git
 | `git restore file`        | Restores a file's working-tree changes               | Undo this file's changes    |
 | `git rm --cached file`    | Removes a file from staging while keeping it on disk | Unstage this                |
 
-##Git + GitHub Commands
+## Git + GitHub Commands
 | Command                       | What it does                                        | Easy mental shortcut         |
 | ----------------------------- | --------------------------------------------------- | ---------------------------- |
 | `git remote -v`               | Shows connected remote repositories                 | Where is my GitHub repo? |
@@ -50,7 +50,7 @@ https://github.com/charles-robert-amita/wired-brain-recipes.git
 | `git fetch`                   | Downloads remote information without integrating it | Check what's remote      |
 | `git clone <URL>`             | Downloads an existing remote repository             | Copy GitHub repo locally |
 
-##Branch Commands
+## Branch Commands
 | Command              | What it does                                | Mental shortcut               |
 | -------------------- | ------------------------------------------- | ----------------------------- |
 | `git branch`         | Lists branches                              | What branches exist?      |
